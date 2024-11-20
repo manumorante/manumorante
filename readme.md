@@ -9,3 +9,5 @@ Soy un desarrollador frontend con amplia experiencia en proyectos tanto de **pro
 ❤️ Valoro a los compañeros que **escuchan y se adaptan a las necesidades del equipo**, priorizando el trabajo conjunto sobre las tendencias que a veces son pasajeras.
 
 🌐 He contribuido con algunas extensiones para Raycast, mejorando el **ecosistema de código abierto**.
+
+[manumorante.com](https://manumorante.com)
