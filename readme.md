@@ -1,6 +1,6 @@
 ### Manu Morante
 
-Soy un desarrollador frontend con amplia experiencia en proyectos tanto de **producto propio**, con componentes escalables, como en **consultoras**, donde ha primado más la velocidad o la reutilización.
+Soy un desarrollador frontend con amplia experiencia en empresas tanto de **producto propio**, con componentes escalables, como en **consultoras**, donde ha primado más la velocidad o la reutilización.
 
 🎨 Procuro lograr que cada animación, cada desplazamiento y cada carga **se sientan familiares**.
 
