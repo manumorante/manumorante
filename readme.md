@@ -1,13 +1,17 @@
 ### Manu Morante
 
-Soy un desarrollador frontend con amplia experiencia en empresas tanto de **producto propio**, con componentes escalables, como en **consultoras**, donde ha primado más la velocidad o la reutilización.
+Desarrollador frontend con más de 20 años de experiencia en empresas de producto propio con componentes escalables, así como en consultoras donde la velocidad y la reutilización han sido clave.
 
-🎨 Procuro lograr que cada animación, cada desplazamiento y cada carga **se sientan familiares**.
+React - Sass + BEM - Tailwind - HTML accesible/nativo - Rails
 
-🔍 En los últimos años, he estado creando y manteniendo **sistemas de diseño, asistiendo al equipo de diseño** con conocimiento de Figma, hasta el desarrollo de los componentes.
+🔍 En los últimos años he estado creando el producto en Domestika. Manteniendo sistemas de diseño en React con Sass + CSS orientado a objetos y Tailwind, además de servir de enlace con el equipo de diseño.
 
-❤️ Valoro a los compañeros que **escuchan y se adaptan a las necesidades del equipo**, priorizando el trabajo conjunto sobre las tendencias que a veces son pasajeras.
+🎨 Procuro lograr que cada interaccíon se sienta familiar, desde una carga asincrona a una suave micro animación.
 
-🌐 He contribuido con algunas extensiones para Raycast, mejorando el **ecosistema de código abierto**.
+❤️ Valoro a los compañeros que escuchan y se adaptan a las necesidades del equipo, priorizando el trabajo conjunto sobre las tendencias que a veces son pasajeras.
+
+🌐 He contribuido con algunas extensiones para Raycast, mejorando el ecosistema de código abierto.
+
+Siempre explorando, promuevo mejoras continuas en el código, siempre buscando anticipar y resolver problemas futuros. Me encanta :)
 
 [manumorante.com](https://manumorante.com)
